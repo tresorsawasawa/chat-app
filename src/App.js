@@ -4,9 +4,9 @@ const App = () => (
   <div className="App">
     <ChatEngine
       height="100vh"
-      projectID="15922941-d4a7-4ad9-80af-140696e48ddd"
-      userName="tresorsawawa"
-      userSecret="123456"
+      projectID="ae55be71-ba6b-4069-b058-d5a956b82768"
+      userName="tresorsaw"
+      userSecret="123456123"
     />
   </div>
 );
